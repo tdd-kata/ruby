@@ -89,3 +89,11 @@ ruby 2.7.6p219 (2022-04-12 revision c9c2245c0a) [x86_64-linux]
 > which ruby
 ~/.rvm/rubies/ruby-2.7.6/bin/ruby
 ```
+
+## Task Management
+
+- rake (Ruby Make)
+
+```shell
+> rake test
+```

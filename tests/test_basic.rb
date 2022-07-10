@@ -1,4 +1,4 @@
-# ruby 1_simple_unit_test.rb
+# ruby test_basic.rb
 
 require "test/unit"
 
