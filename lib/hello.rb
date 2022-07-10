@@ -1,3 +1,5 @@
+##
+# 인사한다.
 def hello(name = "markruler", age = -1)
   if name == "Mark"
     return ("Oh " + name + ", you are " + age.to_s)

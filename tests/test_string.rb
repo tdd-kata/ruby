@@ -3,7 +3,7 @@
 require "test/unit"
 
 # modular programming
-require_relative '../utils'
+require_relative '../lib/utils'
 include Utils
 
 class TestString < Test::Unit::TestCase

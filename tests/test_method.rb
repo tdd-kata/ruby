@@ -1,6 +1,6 @@
 # ruby test_basic.rb
 
-require_relative '../hello'
+require_relative '../lib/hello'
 require "test/unit"
 
 class TestMethod < Test::Unit::TestCase

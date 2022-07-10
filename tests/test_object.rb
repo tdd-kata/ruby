@@ -1,6 +1,6 @@
 # ruby test_basic.rb
 
-require_relative '../Student'
+require_relative '../lib/student'
 require "test/unit"
 
 class TestObject < Test::Unit::TestCase
